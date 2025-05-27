@@ -1,0 +1,7 @@
+2025-05-23 08:00:01,INFO,User login,192.168.1.1
+2025-05-23 08:00:02,ERROR,Failed login attempt,192.168.1.2
+2025-05-23 08:00:03,INFO,User login,192.168.1.1
+2025-05-23 08:00:04,ERROR,Unauthorized access,10.0.0.1
+2025-05-23 08:00:05,INFO,User logout,192.168.1.1
+2025-05-23 08:00:06,INFO,User login,192.168.1.3
+2025-05-23 08:00:07,ERROR,Failed login attempt,192.168.1.2
