@@ -14,7 +14,7 @@ A Python-based command-line tool for detecting anomalies in system log files usi
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/healrrrr/Anomaly-Detection-CLI.git>
    cd log_anomaly_detector
    ```
 2. Install dependencies:
